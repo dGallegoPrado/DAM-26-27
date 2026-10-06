@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+# DAM-26-27
+=======
 # projecte-vuetify
 
 Scaffolded with Vuetify CLI.
@@ -88,3 +91,4 @@ This project uses Vuetify - an MIT licensed Open Source project. We are glad to 
 - Request enterprise support: https://support.vuetifyjs.com/
 - Sponsor on GitHub: https://github.com/sponsors/vuetifyjs
 - Support on Open Collective: https://opencollective.com/vuetify
+>>>>>>> d20807f (first commit)
